@@ -1,4 +1,4 @@
-# Node.js Express API with Prisma
+# Node.js Express REST API with Prisma
 
 ## Description
 
